@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "Se usi questo software, cita il record Zenodo indicato qui sotto."
+title: "MIAG — Magnifiche Intelligenze Artificiali Generative"
+abstract: >-
+  Mini-arcade da browser in cinque livelli, costruito sopra le sette tavole illustrate
+  della relazione omonima letta al XXIX Congresso dell'Associazione degli Italianisti
+  (Trento-Rovereto, 10-12 settembre 2026). Il gioco non illustra l'intervento: ne è una
+  metafora giocabile. Realizzato in vibe coding con GPT-6 Astra.
+type: software
+authors:
+  - family-names: Curzi
+    given-names: Fabio
+    orcid: "https://orcid.org/0000-0002-6984-3300"
+    affiliation: "Università di Macerata, Dipartimento di Studi Umanistici"
+    email: f.curzi@unimc.it
+version: "1.0.0"
+date-released: 2026-09-11
+license: MIT
+url: "https://miag2026.netlify.app/"
+repository-code: "https://github.com/fcurzi/miag2026"
+doi: "10.5281/zenodo.ZZZZZZZ"
+keywords:
+  - arcade
+  - generative AI
+  - vibe coding
+  - digital humanities
+  - italianistica
+  - science communication
+references:
+  - type: conference-paper
+    title: "Un percorso di pratiche e analisi per costruire una prospettiva critica sulle magnifiche Intelligenze Artificiali Generative"
+    authors:
+      - family-names: Curzi
+        given-names: Fabio
+        orcid: "https://orcid.org/0000-0002-6984-3300"
+    conference:
+      name: "XXIX Congresso dell'Associazione degli Italianisti — La responsabilità della letteratura"
+      city: "Rovereto"
+      country: IT
+    year: 2026
+    doi: "10.5281/zenodo.22956388"
