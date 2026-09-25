@@ -18,7 +18,7 @@ date-released: 2026-09-11
 license: MIT
 url: "https://miag2026.netlify.app/"
 repository-code: "https://github.com/fcurzi/miag2026"
-# doi: da aggiungere dopo la release, quando Zenodo lo conia
+doi: "10.5281/zenodo.22958775"  # concept DOI: risolve sempre all'ultima versione
 keywords:
   - arcade
   - generative AI
