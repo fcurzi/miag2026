@@ -18,7 +18,7 @@ I tre personaggi selezionabili sono **Francesco De Sanctis**, **Benedetto Croce*
 Contini**, a rappresentare diverse tradizioni della critica letteraria italiana; nel gioco si
 distinguono per differenze nelle capacità. Cinque livelli arcade riconoscibili (endless runner, climb
 verticale, labirinto al buio, tre corsie, boss fight) chiudono su **la marionetta**: un gigante con
-uno schermo al posto del volto, che impara e para ogni mossa che gli venga ripetuta davanti.
+uno schermo al posto del volto, che impara e para ogni mossa che gli venga ripetuta davanti. 
 
 ## Come si esegue
 
@@ -58,9 +58,10 @@ release ottiene il proprio DOI. I metadati del record sono descritti in `.zenodo
 è quello che GitHub mostra nel riquadro «Cite this repository».
 
 Fabio Curzi, *MIAG — Magnifiche Intelligenze Artificiali Generative* [software], 2026.
-DOI: 10.5281/zenodo.ZZZZZZZ
+DOI: 10.5281/zenodo.22958775 (concept, risolve sempre all'ultima versione)
+Versione 1.0.0: 10.5281/zenodo.22958999
 
 Gli altri due pezzi dello stesso intervento:
 
 - il testo della relazione — DOI: 10.5281/zenodo.22956388
-- le tavole proiettate al congresso — DOI: 10.5281/zenodo.YYYYYYY
+- le tavole proiettate al congresso — DOI: 10.5281/zenodo.22959328
